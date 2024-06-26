@@ -26,13 +26,15 @@ The table above reflects the extent of mention activity among different bridgers
 - 176 users each have at least 2 tweets and 100,1000 followers, account for 0.18 % of the total users.
 - Among the selected users, 116 users have interactions involving 190 mentions.
 
-<img src='pic/mention_network_1.png' height='200'> 
-<img src='pic/mention_network_2.png' height='200'>
+|||
+|---|---|
+|<img src='pic/mention_network_1.png' height='200'>|<img src='pic/mention_network_2.png' height='200'>|
 
 However, among the mentions by these influential users, the brand Adidas occupies a critical central position in the network.
 
-<img src='pic/in_degree_centrality.png' height='120'> 
-<img src='pic/out_degree_centrality.png' height='120'>
+|||
+|---|---|
+|<img src='pic/in_degree_centrality.png' height='120'> |<img src='pic/out_degree_centrality.png' height='120'>|
 
 Adidas has the highest in-degree centrality, shows its widespread visibility and popularity on social media. Xbox and adidasoriginals also have high mention frequencies. 
 
